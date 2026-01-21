@@ -1,0 +1,44 @@
+# Environment
+.env
+venv/
+env/
+ENV/
+
+# Cache
+cache/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data
+data/rate_limits.db
+*.db
+
+# Generated Media (Do not upload)
+*.png
+*.jpg
+*.jpeg
+*.mp3
+*.wav
+*.mp4
+*.avi
+*.mov
+final_video.mp4
+mythos_saga.mp4
+scene_*.png
+audio_*.mp3
+sub_*.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
